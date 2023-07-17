@@ -1,0 +1,10 @@
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\bin\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.deps.json
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\bin\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.dll
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\bin\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.pdb
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\obj\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.csproj.AssemblyReference.cache
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\obj\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\obj\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.AssemblyInfoInputs.cache
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\obj\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.AssemblyInfo.cs
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\obj\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\obj\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.dll
+C:\Users\Kartik Tyagi\source\repos\HardwareWarehouseManagementSystem\WarehouseManagementSystemAPI\obj\Debug\netcoreapp3.1\WarehouseManagementSystemAPI.pdb
